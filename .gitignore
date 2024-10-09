@@ -1,0 +1,5 @@
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+file2.log
+file3.log
